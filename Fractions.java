@@ -6,7 +6,7 @@
 
 /**
  *
- * @author vivie
+ * @author vyvienne
  */
 import java.util.Scanner;
 
