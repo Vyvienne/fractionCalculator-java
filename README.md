@@ -1,5 +1,5 @@
 # fractionCalculator-java
-(Year 2 java project) Simple fraction calculator for two fractions
+(Year 1 java project) Simple fraction calculator for two fractions
 
 # WHAT THIS PROGRAM IS ABLE TO DO:
 1) Perform arithmetic operations of addition, subtraction, multiplication and division of user input
