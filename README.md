@@ -1,3 +1,4 @@
+# AUTHOR: TAN WAN YIN
 # fractionCalculator-java
 (Year 1 java project) Simple fraction calculator for two fractions
 
